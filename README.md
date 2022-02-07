@@ -1,4 +1,4 @@
-# Hackintosh EFI with OpenCore (0.6.9)
+# Hackintosh EFI with OpenCore (0.7.7)
 
 ## Config
 + CPU: Intel® Core™ i5-9400F Processor
